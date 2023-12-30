@@ -1,0 +1,1 @@
+export const configs = [{"license":"MIT","licenseUrl":"https://github.com/lusaxweb/vuesax/blob/master/LICENSE","name":"IconSaxIcons","prefix":"Is","projectUrl":"https://github.com/lusaxweb/iconsax","variants":{"variant":["bold","broken","bulk","linear","outline","twotone"]},"defaultVariants":{}}];

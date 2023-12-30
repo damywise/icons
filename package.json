@@ -24,65 +24,10 @@
       "require": "./lib/entry.lib.qwik.cjs",
       "types": "./lib/entry.lib.d.ts"
     },
-    "./bootstrap": {
-      "import": "./lib/bs.qwik.mjs",
-      "require": "./lib/bs.qwik.cjs",
-      "types": "./lib/icons/bs/bs.d.ts"
-    },
-    "./octicons": {
-      "import": "./lib/go.qwik.mjs",
-      "require": "./lib/go.qwik.cjs",
-      "types": "./lib/icons/go/go.d.ts"
-    },
-    "./flowbite": {
-      "import": "./lib/fl.qwik.mjs",
-      "require": "./lib/fl.qwik.cjs",
-      "types": "./lib/icons/fl/fl.d.ts"
-    },
-    "./font-awesome": {
-      "import": "./lib/fa.qwik.mjs",
-      "require": "./lib/fa.qwik.cjs",
-      "types": "./lib/icons/fa/fa.d.ts"
-    },
-    "./heroicons": {
-      "import": "./lib/hi.qwik.mjs",
-      "require": "./lib/hi.qwik.cjs",
-      "types": "./lib/icons/hi/hi.d.ts"
-    },
-    "./iconoir": {
-      "import": "./lib/in.qwik.mjs",
-      "require": "./lib/in.qwik.cjs",
-      "types": "./lib/icons/in/in.d.ts"
-    },
-    "./ionicons": {
-      "import": "./lib/io.qwik.mjs",
-      "require": "./lib/io.qwik.cjs",
-      "types": "./lib/icons/io/io.d.ts"
-    },
-    "./lucide": {
-      "import": "./lib/lu.qwik.mjs",
-      "require": "./lib/lu.qwik.cjs",
-      "types": "./lib/icons/lu/lu.d.ts"
-    },
-    "./material": {
-      "import": "./lib/mat.qwik.mjs",
-      "require": "./lib/mat.qwik.cjs",
-      "types": "./lib/icons/mat/mat.d.ts"
-    },
-    "./monoicons": {
-      "import": "./lib/mo.qwik.mjs",
-      "require": "./lib/mo.qwik.cjs",
-      "types": "./lib/icons/mo/mo.d.ts"
-    },
-    "./simpleicons": {
-      "import": "./lib/si.qwik.mjs",
-      "require": "./lib/si.qwik.cjs",
-      "types": "./lib/icons/si/si.d.ts"
-    },
-    "./tablericons": {
-      "import": "./lib/tb.qwik.mjs",
-      "require": "./lib/tb.qwik.cjs",
-      "types": "./lib/icons/tb/tb.d.ts"
+    "./iconsax": {
+      "import": "./lib/is.qwik.mjs",
+      "require": "./lib/is.qwik.cjs",
+      "types": "./lib/icons/is/is.d.ts"
     }
   },
   "typesVersions": {
@@ -90,41 +35,8 @@
       "*": [
         "./lib/entry.lib.d.ts"
       ],
-      "bootstrap": [
-        "./lib/icons/bs/bs.d.ts"
-      ],
-      "flowbite": [
-        "./lib/icons/fl/fl.d.ts"
-      ],
-      "font-awesome": [
-        "./lib/icons/fa/fa.d.ts"
-      ],
-      "octicons": [
-        "./lib/icons/go/go.d.ts"
-      ],
-      "heroicons": [
-        "./lib/icons/hi/hi.d.ts"
-      ],
-      "iconoir": [
-        "./lib/icons/in/in.d.ts"
-      ],
-      "ionicons": [
-        "./lib/icons/io/io.d.ts"
-      ],
-      "lucide": [
-        "./lib/icons/lu/lu.d.ts"
-      ],
-      "material": [
-        "./lib/icons/mat/mat.d.ts"
-      ],
-      "monoicons": [
-        "./lib/icons/mo/mo.d.ts"
-      ],
-      "simpleicons": [
-        "./lib/icons/si/si.d.ts"
-      ],
-      "tablericons": [
-        "./lib/icons/tb/tb.d.ts"
+      "iconsax": [
+        "./lib/icons/is/is.d.ts"
       ]
     }
   },
